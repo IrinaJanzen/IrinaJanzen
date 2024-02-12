@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I am Irina.
+I work in the public sector using R to analyse and visualise university data. In the future, you'll find my personal projects here.
 
 <!--
 **IrinaJanzen/IrinaJanzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
